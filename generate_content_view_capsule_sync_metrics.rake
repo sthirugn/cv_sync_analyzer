@@ -4,7 +4,7 @@ namespace :katello do
       * DAYS     : Number of days to go back
     If DAYS is not defined, it defaults to tasks in the past 7 days.
   DESC
-  task :generate_content_view_sync_metrics => ["environment"] do
+  task :generate_content_view_capsule_sync_metrics => ["environment"] do
     puts "Task started. This may take a while depending on the amount of tasks."
 
     # By default query last 7 days
