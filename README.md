@@ -1,3 +1,5 @@
+### ****Deprecated and moved to https://github.com/RedHatSatellite/satellite-support ****
+
 # cv_sync_analyzer
 This helps to analyze how the different content view capsule sync tasks are
 performing in your Satellite6 environment.  To use it, follow these instructions:
